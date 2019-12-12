@@ -2,4 +2,3 @@ Cython
 numpy
 scipy
 matplotlib
--e git://github.com/reptillicus/LeeFilter#egg=LeeFilter
