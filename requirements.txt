@@ -2,4 +2,4 @@ Cython
 numpy
 scipy
 matplotlib
--r https://github.com/reptillicus/LeeFilter
+-e git://github.com/reptillicus/LeeFilter
